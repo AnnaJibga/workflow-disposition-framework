@@ -1,6 +1,6 @@
 # WDF™ Scoring Methodology
 
-*Workflow Disposition Framework, v1.0. Part of the [Foundational Data Products™](https://foundationaldataproducts.com) methodology and the DSIL™ framework, by [Anna Jibgashvili](https://www.linkedin.com/in/annajibgashvili/).*
+*Workflow Disposition Framework, v1.0. Part of the [Foundational Data Products™](https://foundationaldataproducts.com) methodology and the DSIL™ framework, for https://Foundeon.com by [Anna Jibgashvili](https://www.linkedin.com/in/annajibgashvili/).*
 
 ---
 
