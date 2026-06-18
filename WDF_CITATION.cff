@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference this framework, please cite it as below."
+title: "Workflow Disposition Framework (WDF™)"
+version: "1.0.0"
+date-released: "2026-06-17"
+authors:
+  - family-names: "Jibgashvili"
+    given-names: "Anna"
+repository-code: "https://github.com/AnnaJibga/workflow-disposition-framework"
+url: "https://foundationaldataproducts.com"
+license: "CC-BY-NC-ND-4.0"
+abstract: "The Workflow Disposition Framework (WDF™) is a Foundeon framework for sequencing AI-candidate workflows against enterprise readiness, impact, and consequence. It routes workflows to Manual, Hybrid, or Automated dispositions and ties each disposition to an owned next step."
+keywords:
+  - enterprise AI
+  - AI governance
+  - workflow disposition
+  - enterprise readiness
+  - digital sovereignty
+  - Foundational Data Products
