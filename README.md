@@ -21,16 +21,22 @@ It asks:
 
 ## Repository contents
 
-| File | Purpose |
-| --- | --- |
-| `README.md` | Public orientation to the framework and repository. |
-| `SCORING_METHODOLOGY.md` | Defensible scoring logic, thresholds, and routing rules. |
-| `LICENSE.md` | CC BY-NC-ND 4.0 license summary, commercial-use note, and trademark note. |
-| `CITATION.cff` | Citation metadata for GitHub's **Cite this repository** function. |
-| `client-engagement/Foundeon_Workflow_Disposition_Engagement.docx` | Foundeon engagement wrapper for packaging EIRA + WDF as a sellable advisory engagement. |
-| `docs/README_DISPOSITION_TABLE_FIX.md` | Paste-in replacement table for README threshold alignment. |
-| `GITHUB_RECORD.md` | Internal GitHub issue or release record for shipping v1.0. |
-| `RELEASE_NOTES.md` | Release notes for v1.0. |
+| File                                   | Purpose                                                                   |
+| -------------------------------------- | ------------------------------------------------------------------------- |
+| `README.md`                            | Public orientation to the framework and repository.                       |
+| `SCORING_METHODOLOGY.md`               | Defensible scoring logic, thresholds, and routing rules.                  |
+| `LICENSE.md`                           | CC BY-NC-ND 4.0 license summary, commercial-use note, and trademark note. |
+| `CITATION.cff`                         | Citation metadata for GitHub's **Cite this repository** function.         |
+| `docs/README_DISPOSITION_TABLE_FIX.md` | Paste-in replacement table for README threshold alignment.                |
+| `GITHUB_RECORD.md`                     | Internal GitHub issue or release record for shipping v1.0.                |
+| `RELEASE_NOTES.md`                     | Release notes for v1.0.                                                   |
+
+## Client Engagement Use
+
+WDF™ can be applied as part of a Foundeon advisory engagement that begins with EIRA readiness assessment, inventories AI-candidate workflows, applies the WDF™ disposition logic, and produces a sequenced build order with owned next steps.
+
+A separate Foundeon Workflow Disposition Engagement wrapper exists for client delivery and commercial scoping. That document is not published in this repository.
+
 
 ## Inputs
 
