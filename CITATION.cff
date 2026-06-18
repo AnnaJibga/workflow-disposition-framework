@@ -7,7 +7,7 @@ authors:
   - family-names: "Jibgashvili"
     given-names: "Anna"
 repository-code: "https://github.com/AnnaJibga/workflow-disposition-framework"
-url: "https://foundationaldataproducts.com"
+url: "https://foundeon.com"
 license: "CC-BY-NC-ND-4.0"
 abstract: "The Workflow Disposition Framework (WDF™) is a Foundeon framework for sequencing AI-candidate workflows against enterprise readiness, impact, and consequence. It routes workflows to Manual, Hybrid, or Automated dispositions and ties each disposition to an owned next step."
 keywords:
