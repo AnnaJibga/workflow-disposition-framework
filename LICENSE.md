@@ -33,7 +33,7 @@ These conditions are a summary and do not replace the full license text linked a
 
 For commercial licensing of this framework, application of the DSIL™ framework, or consultation on sequencing an AI build program, contact:
 
-**anna@foundationaldataproducts.com**
+*anna@foundeon.com*
 
 ---
 
